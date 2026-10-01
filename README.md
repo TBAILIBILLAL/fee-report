@@ -49,7 +49,7 @@ install.
 
 ### Download
 
-The [latest release](https://github.com/billy001-11/fee-report/releases/latest) has a
+The [latest release](https://github.com/TBAILIBILLAL/fee-report/releases/latest) has a
 ready-to-run zip. Unzip it and double-click `run.bat`.
 
 ### Build and run
