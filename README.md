@@ -47,6 +47,11 @@ install.
 - Java 8 or newer to run the program
 - A JDK (8 or newer) to build it from source
 
+### Download
+
+The [latest release](https://github.com/billy001-11/fee-report/releases/latest) has a
+ready-to-run zip. Unzip it and double-click `run.bat`.
+
 ### Build and run
 
 On Windows:
