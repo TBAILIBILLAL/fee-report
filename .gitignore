@@ -1,0 +1,22 @@
+# Build output
+out/
+out-test/
+*.class
+FeeReport.jar
+
+# Local database (created on first run, holds real accounts and students)
+feereport.db
+*.db-journal
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+
+# OS files
+Thumbs.db
+.DS_Store
